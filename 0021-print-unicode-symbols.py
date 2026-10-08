@@ -1,0 +1,8 @@
+print("π = 3.14159")
+print("α β γ θ")
+print("Δx = 5 m")
+print("F = ma")
+print("✓ Completed")
+print("→ Next")
+print("∞")
+print("Python 🚀")

@@ -1,0 +1,8 @@
+print(3, 7)
+print(3, 7, sep="")
+print(3, 7, sep=" ")
+print(3, 7, sep=",")
+print(3, 7, sep="---")
+print("Python", "Java", "C", sep=" | ")
+print("A","B","C",sep="_")
+print("Phyics", "Maths","CSE", sep=">")
